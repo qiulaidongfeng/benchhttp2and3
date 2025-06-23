@@ -1,4 +1,4 @@
-module main
+module github.com/qiulaidongfeng/benchhttp2and3
 
 go 1.24
 
